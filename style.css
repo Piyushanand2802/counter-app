@@ -1,0 +1,61 @@
+.title{color:red;}
+#counter{color:blue;
+font-size:70px;}
+body{background-color:pink;
+}
+.btn-container{
+align-items:center;
+background-color:C9EEFF;
+justify-content:center;
+text-align:center;
+display:inline-block;
+padding:35 80 35 80;
+margin-left:35%;
+border-radius:20px;
+
+}
+#increase-btn{background-color:B08BBB;
+border-radius:10px;
+font-size:20px;
+border:none;
+color:white;
+cursor:grab;
+border: 1px solid white;
+	
+}
+
+:active#increase-btn{background-color:red;
+cursor:grabbing;
+color:white;
+border:1px solid white;}
+
+
+#reset-btn{background-color:B08BBB;
+border-radius:10px;
+font-size:20px;
+border:none;
+color:white;
+cursor:grab;
+border: 1px solid white;
+	
+}
+
+:active#reset_btn{background-color:red;
+cursor:grabbing;
+color:white;
+border:1px solid white;}
+
+#decrease-btn{background-color:B08BBB;
+border-radius:10px;
+font-size:20px;
+border:none;
+color:white;
+cursor:grab;
+border: 1px solid white;
+	
+}
+
+:active#decrease-btn{background-color:red;
+cursor:grabbing;
+color:white;
+border:1px solid white;}
